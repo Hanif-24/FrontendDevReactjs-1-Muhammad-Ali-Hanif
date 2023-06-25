@@ -2,6 +2,8 @@
  React js version : 18.2.0 \
  Node version : 18.12.0
 
+ Saya menyadari masih banyak kekurangan / bug pada tugas ini, dan hal tersebut akan menjadi motivasi bagi saya agar lebih memperdalam pengetahuan akan React
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
