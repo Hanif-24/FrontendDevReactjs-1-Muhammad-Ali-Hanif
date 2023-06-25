@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Tugas Technical Test Reactjs Developer
+ React js version : 18.2.0
+ Node version : 18.12.0
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
