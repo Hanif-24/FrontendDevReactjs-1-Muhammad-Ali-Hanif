@@ -1,5 +1,5 @@
 # Tugas Technical Test Reactjs Developer
- React js version : 18.2.0
+ React js version : 18.2.0 \
  Node version : 18.12.0
 
 ## Getting Started with Create React App
